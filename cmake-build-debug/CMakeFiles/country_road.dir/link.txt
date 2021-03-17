@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\country_road.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\country_road.dir/objects.a @CMakeFiles\country_road.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\country_road.dir/objects.a -Wl,--no-whole-archive  -o country_road.exe -Wl,--out-implib,libcountry_road.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\country_road.dir\linklibs.rsp
