@@ -52,6 +52,6 @@ int main() {
     for(int i = 0; i < numBases; ++i){
         std::cout << bases[i] << " ";
     }
-
+    std::cout << std::endl;
     return 0;
 }
