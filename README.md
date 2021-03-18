@@ -8,8 +8,8 @@ This program takes user input for the number of houses, road length, and locatio
 # HOW TO RUN THE PROGRAM
 Running in CLION <br>
 I ran the program with all of the files in this repository as a project using the CLION IDE, which provides debugging and other functionality. Below is an image and video example of this method. <br>
-<a href="https://youtu.be/mZ0JT0q4JOo">YouTube Running in CLION</a><br><br>
-<img src="CLION_RUN.PNG"><br>
+<a href="https://youtu.be/mZ0JT0q4JOo">YouTube Running in CLION</a><br>
+<img src="CLION_RUN.PNG"><br><br>
 Running from Terminal <br>
 Below is an image and video example of running from the terminal using the g++ compiler.<br>
 <a href="https://youtu.be/JxLxvttnl28">YouTube Running from Command Line</a><br>
