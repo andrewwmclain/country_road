@@ -7,8 +7,8 @@ In order to minimize the number of base stations, we can move from west to east 
 This program takes user input for the number of houses, road length, and locations of each house. The locations of each house are represented as an integer distance (in miles) from the westmost point. It is assumed that the user does not try to enter invalid input to crash the program. The program sorts the houses by increasing distance from the westmost point after the user inputs the values, so that it can move from west to east as described in the solution. A base cannot be placed in a position that exceeds the road length, so if the house being checked does not have a base within 4 miles and is also less than 4 miles from the end of the road, then the base will be placed at the end of the road. 
 # HOW TO RUN THE PROGRAM
 Running in CLION <br>
-I ran the program with all of the files in this repository as a project using the CLION IDE, which provides debugging and other functionality. Below is an image and video example of this method. <br><br>
-<a href="https://youtu.be/mZ0JT0q4JOo">YouTube Running in CLION</a><br>
+I ran the program with all of the files in this repository as a project using the CLION IDE, which provides debugging and other functionality. Below is an image and video example of this method. <br>
+<a href="https://youtu.be/mZ0JT0q4JOo">YouTube Running in CLION</a><br><br>
 <img src="CLION_RUN.PNG"><br>
 Running from Terminal <br>
 Below is an image and video example of running from the terminal using the g++ compiler.<br>
